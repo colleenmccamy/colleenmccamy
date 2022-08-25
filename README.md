@@ -2,8 +2,7 @@
 
 I am a self-proclaimed energy nerd passionate about the intersection of climate, creativity and community. 
 
-
-😄 Pronouns: she/her
+Pronouns: she/her
 
 
 
