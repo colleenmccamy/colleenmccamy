@@ -1,4 +1,4 @@
-# Hi I am Colleen McCamy. Welcome to my GitHub Profile.
+# Hi I am Colleen McCamy and welcome to my GitHub.
 
 I am a self-proclaimed energy nerd passionate about the intersection of climate, creativity and community. 
 
