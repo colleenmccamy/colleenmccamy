@@ -1,8 +1,7 @@
-### Welcome to my GitHub
+# Hi I am Colleen McCamy. Welcome to my GitHub Profile.
 
 I am a self-proclaimed energy nerd passionate about the intersection of climate, creativity and community. 
 
-[image](https://user-images.githubusercontent.com/110215357/186739778-391a8a31-8b0b-4820-b88c-84188f82325b.png)
 
 😄 Pronouns: she/her
 
