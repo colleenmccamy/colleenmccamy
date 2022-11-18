@@ -2,6 +2,8 @@
 
 I am a self-proclaimed energy nerd passionate about the intersection of climate, creativity and community. 
 
+My GitHub account is a work in progress but for some more polished updates check out my blog at https://colleenmccamy.github.io/.
+
 Pronouns: she/her
 
 
