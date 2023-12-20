@@ -19,8 +19,7 @@ Pronouns: she/her
 
 
 ### :cactus: My GitHub Wrapped:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=colleenmccamy&theme=dark&background=000435)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=colleenmccamy&theme=dracula&exclude_days=Sun%2CSat&card_width=457)](https://git.io/streak-stats)
 
 
 <!--
