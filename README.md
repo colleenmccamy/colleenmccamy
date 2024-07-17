@@ -22,7 +22,7 @@ Pronouns: she/her
 [![GitHub Streak](https://streak-stats.demolab.com?user=colleenmccamy&theme=dracula&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
-### You're not alone! Here is my GitHub profile views count.
+### You're not alone! Here is the count of profile views.
 (as of July 2024)
 
 <img src="https://profile-counter.glitch.me/colleenmccamy/count.svg" />
