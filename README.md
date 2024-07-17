@@ -23,6 +23,7 @@ Pronouns: she/her
 
 
 ### You're not alone! Here is my GitHub visitor count.
+(as of July 2024)
 <img src="https://profile-counter.glitch.me/colleenmccamy/count.svg" />
 <!--
 **colleenmccamy/colleenmccamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
