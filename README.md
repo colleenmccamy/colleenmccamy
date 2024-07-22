@@ -23,7 +23,6 @@ Pronouns: she/her
 
 
 ### You're not alone! Here is the count of profile views.
-(as of July 2024)
 
 <img src="https://profile-counter.glitch.me/colleenmccamy/count.svg" />
 <!--
